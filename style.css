@@ -8,6 +8,7 @@ body {
 }
 ::selection {
   color: #8f89a8;
+  text-decoration-color: #222;
   background-color: #222;
 }
 
